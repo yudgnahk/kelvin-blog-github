@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-blog-github/static/css/main.a34eb44e.chunk.css",
-    "main.js": "/react-blog-github/static/js/main.1d76c63d.chunk.js",
-    "main.js.map": "/react-blog-github/static/js/main.1d76c63d.chunk.js.map",
-    "runtime-main.js": "/react-blog-github/static/js/runtime-main.447f88b1.js",
-    "runtime-main.js.map": "/react-blog-github/static/js/runtime-main.447f88b1.js.map",
-    "static/js/2.d71a87c4.chunk.js": "/react-blog-github/static/js/2.d71a87c4.chunk.js",
-    "static/js/2.d71a87c4.chunk.js.map": "/react-blog-github/static/js/2.d71a87c4.chunk.js.map",
-    "index.html": "/react-blog-github/index.html",
-    "precache-manifest.27ef8959cc1ea461bc9d168b2ea2d2ba.js": "/react-blog-github/precache-manifest.27ef8959cc1ea461bc9d168b2ea2d2ba.js",
-    "service-worker.js": "/react-blog-github/service-worker.js",
-    "static/css/main.a34eb44e.chunk.css.map": "/react-blog-github/static/css/main.a34eb44e.chunk.css.map",
-    "static/js/2.d71a87c4.chunk.js.LICENSE.txt": "/react-blog-github/static/js/2.d71a87c4.chunk.js.LICENSE.txt"
+    "main.css": "/kelvin-blog-github/static/css/main.a34eb44e.chunk.css",
+    "main.js": "/kelvin-blog-github/static/js/main.f7c2574d.chunk.js",
+    "main.js.map": "/kelvin-blog-github/static/js/main.f7c2574d.chunk.js.map",
+    "runtime-main.js": "/kelvin-blog-github/static/js/runtime-main.b00e6a46.js",
+    "runtime-main.js.map": "/kelvin-blog-github/static/js/runtime-main.b00e6a46.js.map",
+    "static/js/2.f2e4d1d6.chunk.js": "/kelvin-blog-github/static/js/2.f2e4d1d6.chunk.js",
+    "static/js/2.f2e4d1d6.chunk.js.map": "/kelvin-blog-github/static/js/2.f2e4d1d6.chunk.js.map",
+    "index.html": "/kelvin-blog-github/index.html",
+    "precache-manifest.e8f25edad7ea451d698a7bee002b7c3a.js": "/kelvin-blog-github/precache-manifest.e8f25edad7ea451d698a7bee002b7c3a.js",
+    "service-worker.js": "/kelvin-blog-github/service-worker.js",
+    "static/css/main.a34eb44e.chunk.css.map": "/kelvin-blog-github/static/css/main.a34eb44e.chunk.css.map",
+    "static/js/2.f2e4d1d6.chunk.js.LICENSE.txt": "/kelvin-blog-github/static/js/2.f2e4d1d6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.447f88b1.js",
-    "static/js/2.d71a87c4.chunk.js",
+    "static/js/runtime-main.b00e6a46.js",
+    "static/js/2.f2e4d1d6.chunk.js",
     "static/css/main.a34eb44e.chunk.css",
-    "static/js/main.1d76c63d.chunk.js"
+    "static/js/main.f7c2574d.chunk.js"
   ]
 }
