@@ -38,9 +38,9 @@
 
 ## :link: Live Demo
 
-Here's a [live demo](https://saadpasta.github.io/react-blog-github/#/)
+Here's a [live demo](https://saadpasta.github.io/kelvin-blog-github/#/)
 
-Github [Issues / Blogs](https://github.com/saadpasta/react-blog-github/issues)
+Github [Issues / Blogs](https://github.com/saadpasta/kelvin-blog-github/issues)
 
 
 --- 
@@ -59,14 +59,14 @@ git@2.17.1 or higher
 
 ```
 
-### 1. From your command line, clone and run react-blog-github:
+### 1. From your command line, clone and run kelvin-blog-github:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/username/react-blog-github.git
+$ git clone https://github.com/username/kelvin-blog-github.git
 
 # Go into the repository
-$ cd react-blog-github
+$ cd kelvin-blog-github
 
 # Install dependencies
 $ npm install
@@ -86,8 +86,8 @@ After that copy your generated token and then encode your token into base 64 usi
 Go on the following URL: https://github.com/settings/apps/new
 
 There are a few fields to fill carefully:
-- Homepage URL: https://your_username.github.io/react-blog-github/
-- Callback URL: https://your_username.github.io/react-blog-github/
+- Homepage URL: https://your_username.github.io/kelvin-blog-github/
+- Callback URL: https://your_username.github.io/kelvin-blog-github/
 - Check "Request user authorization (OAuth) during installation"
 
 In permissions & events, set `Read & Write` on Issues
@@ -131,7 +131,7 @@ export const config = {
 ### 5. **Write A Blog.**
 After doing following changes now you just need to write a blog on repository issues that you have mentioned in your `config.js`
 
-- Open your repository [github issues](https://github.com/saadpasta/react-blog-github/issues)
+- Open your repository [github issues](https://github.com/saadpasta/kelvin-blog-github/issues)
 - Create a new issue 
 - Now write your blog in github issue in markdown. You can also use [slack edit](https://stackedit.io/app#) to write your markdown
 - Add a label `blog` on your github issue to make it different from other standard issues. Keep in mind `blog` label is mandatory otherwise it won't show on your website.
@@ -169,7 +169,7 @@ This project is inspired from many other similar projects.
 
 ## 🤝 Contributing
 
-Any idea on how we can make this more awesome ? [Open a new issue](https://github.com/saadpasta/react-blog-github/issues)!  We need all the help we can get to make this project awesome!
+Any idea on how we can make this more awesome ? [Open a new issue](https://github.com/saadpasta/kelvin-blog-github/issues)!  We need all the help we can get to make this project awesome!
 
 ## :boom: Todo
 - Add Comment From Github
@@ -192,16 +192,16 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://github.com/MuhammadHammad"><img src="https://avatars0.githubusercontent.com/u/37264033?v=4" width="100px;" alt=""/><br /><sub><b>SyedMuhammadHammadGhani</b></sub></a><br /><a href="https://github.com/saadpasta/react-blog-github/commits?author=Muhammad-Hammad" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://saadpasta.github.io"><img src="https://avatars2.githubusercontent.com/u/23307811?v=4" width="100px;" alt=""/><br /><sub><b>Saad Pasta</b></sub></a><br /><a href="https://github.com/saadpasta/react-blog-github/commits?author=saadpasta" title="Code">💻</a> <a href="https://github.com/saadpasta/react-blog-github/commits?author=saadpasta" title="Documentation">📖</a> <a href="#design-saadpasta" title="Design">🎨</a> <a href="#maintenance-saadpasta" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/jvm-odoo"><img src="https://avatars0.githubusercontent.com/u/9156538?v=4" width="100px;" alt=""/><br /><sub><b>Jason Van Malder</b></sub></a><br /><a href="https://github.com/saadpasta/react-blog-github/commits?author=jvm-odoo" title="Code">💻</a> <a href="#infra-jvm-odoo" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-    <td align="center"><a href="https://github.com/viveksharmaui"><img src="https://avatars1.githubusercontent.com/u/28563357?v=4" width="100px;" alt=""/><br /><sub><b>Slim Coder</b></sub></a><br /><a href="https://github.com/saadpasta/react-blog-github/commits?author=viveksharmaui" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/waleed345"><img src="https://avatars3.githubusercontent.com/u/42063633?v=4" width="100px;" alt=""/><br /><sub><b>waleed345</b></sub></a><br /><a href="https://github.com/saadpasta/react-blog-github/commits?author=waleed345" title="Code">💻</a></td>
-    <td align="center"><a href="https://abhishekashyap.studio/"><img src="https://avatars3.githubusercontent.com/u/29458374?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Kashyap</b></sub></a><br /><a href="https://github.com/saadpasta/react-blog-github/commits?author=abhishekashyap" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/xzebra"><img src="https://avatars1.githubusercontent.com/u/20362769?v=4" width="100px;" alt=""/><br /><sub><b>Zebra</b></sub></a><br /><a href="https://github.com/saadpasta/react-blog-github/commits?author=xzebra" title="Code">💻</a> <a href="#ideas-xzebra" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://github.com/MuhammadHammad"><img src="https://avatars0.githubusercontent.com/u/37264033?v=4" width="100px;" alt=""/><br /><sub><b>SyedMuhammadHammadGhani</b></sub></a><br /><a href="https://github.com/saadpasta/kelvin-blog-github/commits?author=Muhammad-Hammad" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://saadpasta.github.io"><img src="https://avatars2.githubusercontent.com/u/23307811?v=4" width="100px;" alt=""/><br /><sub><b>Saad Pasta</b></sub></a><br /><a href="https://github.com/saadpasta/kelvin-blog-github/commits?author=saadpasta" title="Code">💻</a> <a href="https://github.com/saadpasta/kelvin-blog-github/commits?author=saadpasta" title="Documentation">📖</a> <a href="#design-saadpasta" title="Design">🎨</a> <a href="#maintenance-saadpasta" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/jvm-odoo"><img src="https://avatars0.githubusercontent.com/u/9156538?v=4" width="100px;" alt=""/><br /><sub><b>Jason Van Malder</b></sub></a><br /><a href="https://github.com/saadpasta/kelvin-blog-github/commits?author=jvm-odoo" title="Code">💻</a> <a href="#infra-jvm-odoo" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="https://github.com/viveksharmaui"><img src="https://avatars1.githubusercontent.com/u/28563357?v=4" width="100px;" alt=""/><br /><sub><b>Slim Coder</b></sub></a><br /><a href="https://github.com/saadpasta/kelvin-blog-github/commits?author=viveksharmaui" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/waleed345"><img src="https://avatars3.githubusercontent.com/u/42063633?v=4" width="100px;" alt=""/><br /><sub><b>waleed345</b></sub></a><br /><a href="https://github.com/saadpasta/kelvin-blog-github/commits?author=waleed345" title="Code">💻</a></td>
+    <td align="center"><a href="https://abhishekashyap.studio/"><img src="https://avatars3.githubusercontent.com/u/29458374?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Kashyap</b></sub></a><br /><a href="https://github.com/saadpasta/kelvin-blog-github/commits?author=abhishekashyap" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/xzebra"><img src="https://avatars1.githubusercontent.com/u/20362769?v=4" width="100px;" alt=""/><br /><sub><b>Zebra</b></sub></a><br /><a href="https://github.com/saadpasta/kelvin-blog-github/commits?author=xzebra" title="Code">💻</a> <a href="#ideas-xzebra" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/jaeyeonling"><img src="https://avatars0.githubusercontent.com/u/40811999?v=4" width="100px;" alt=""/><br /><sub><b>Jaeyeon Kim</b></sub></a><br /><a href="https://github.com/saadpasta/react-blog-github/commits?author=jaeyeonling" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/jaeyeonling"><img src="https://avatars0.githubusercontent.com/u/40811999?v=4" width="100px;" alt=""/><br /><sub><b>Jaeyeon Kim</b></sub></a><br /><a href="https://github.com/saadpasta/kelvin-blog-github/commits?author=jaeyeonling" title="Code">💻</a></td>
   </tr>
 </table>
 
