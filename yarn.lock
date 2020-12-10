@@ -8050,9 +8050,9 @@ readdirp@~3.5.0:
   dependencies:
     picomatch "^2.2.1"
 
-reading-time@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.npmjs.org/reading-time/-/reading-time-1.2.0.tgz"
+reading-time@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/reading-time/-/reading-time-1.2.1.tgz#c5533dca26fef91928a392e147ee51b64d163cba"
 
 realpath-native@^1.1.0:
   version "1.1.0"
