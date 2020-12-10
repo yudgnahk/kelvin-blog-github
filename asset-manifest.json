@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/kelvin-blog-github/static/css/main.a34eb44e.chunk.css",
-    "main.js": "/kelvin-blog-github/static/js/main.10beccdb.chunk.js",
-    "main.js.map": "/kelvin-blog-github/static/js/main.10beccdb.chunk.js.map",
+    "main.js": "/kelvin-blog-github/static/js/main.98376015.chunk.js",
+    "main.js.map": "/kelvin-blog-github/static/js/main.98376015.chunk.js.map",
     "runtime-main.js": "/kelvin-blog-github/static/js/runtime-main.b00e6a46.js",
     "runtime-main.js.map": "/kelvin-blog-github/static/js/runtime-main.b00e6a46.js.map",
-    "static/js/2.f242c2db.chunk.js": "/kelvin-blog-github/static/js/2.f242c2db.chunk.js",
-    "static/js/2.f242c2db.chunk.js.map": "/kelvin-blog-github/static/js/2.f242c2db.chunk.js.map",
+    "static/js/2.d33e8eba.chunk.js": "/kelvin-blog-github/static/js/2.d33e8eba.chunk.js",
+    "static/js/2.d33e8eba.chunk.js.map": "/kelvin-blog-github/static/js/2.d33e8eba.chunk.js.map",
     "index.html": "/kelvin-blog-github/index.html",
-    "precache-manifest.0abf6f37f02e71fd03d7b3876e3056a9.js": "/kelvin-blog-github/precache-manifest.0abf6f37f02e71fd03d7b3876e3056a9.js",
+    "precache-manifest.4c7d193ead437a3d01e27374b157cade.js": "/kelvin-blog-github/precache-manifest.4c7d193ead437a3d01e27374b157cade.js",
     "service-worker.js": "/kelvin-blog-github/service-worker.js",
     "static/css/main.a34eb44e.chunk.css.map": "/kelvin-blog-github/static/css/main.a34eb44e.chunk.css.map",
-    "static/js/2.f242c2db.chunk.js.LICENSE.txt": "/kelvin-blog-github/static/js/2.f242c2db.chunk.js.LICENSE.txt"
+    "static/js/2.d33e8eba.chunk.js.LICENSE.txt": "/kelvin-blog-github/static/js/2.d33e8eba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b00e6a46.js",
-    "static/js/2.f242c2db.chunk.js",
+    "static/js/2.d33e8eba.chunk.js",
     "static/css/main.a34eb44e.chunk.css",
-    "static/js/main.10beccdb.chunk.js"
+    "static/js/main.98376015.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kelvin-blog-github/precache-manifest.0abf6f37f02e71fd03d7b3876e3056a9.js"
+  "/kelvin-blog-github/precache-manifest.4c7d193ead437a3d01e27374b157cade.js"
 );
 
 self.addEventListener('message', (event) => {
