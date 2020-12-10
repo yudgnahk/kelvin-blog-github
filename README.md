@@ -38,9 +38,9 @@
 
 ## :link: Live Demo
 
-Here's a [live demo](https://saadpasta.github.io/kelvin-blog-github/#/)
+Here's a [live demo](https://khanghldk.github.io/kelvin-blog-github/#/)
 
-Github [Issues / Blogs](https://github.com/saadpasta/kelvin-blog-github/issues)
+Github [Issues / Blogs](https://github.com/khanghldk/kelvin-blog-github/issues)
 
 
 --- 
@@ -177,36 +177,3 @@ Any idea on how we can make this more awesome ? [Open a new issue](https://githu
 - Footer 
 - Header
 - Social Media Sharing
-
-
-## 📄 License 
-
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="http://github.com/MuhammadHammad"><img src="https://avatars0.githubusercontent.com/u/37264033?v=4" width="100px;" alt=""/><br /><sub><b>SyedMuhammadHammadGhani</b></sub></a><br /><a href="https://github.com/saadpasta/kelvin-blog-github/commits?author=Muhammad-Hammad" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://saadpasta.github.io"><img src="https://avatars2.githubusercontent.com/u/23307811?v=4" width="100px;" alt=""/><br /><sub><b>Saad Pasta</b></sub></a><br /><a href="https://github.com/saadpasta/kelvin-blog-github/commits?author=saadpasta" title="Code">💻</a> <a href="https://github.com/saadpasta/kelvin-blog-github/commits?author=saadpasta" title="Documentation">📖</a> <a href="#design-saadpasta" title="Design">🎨</a> <a href="#maintenance-saadpasta" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/jvm-odoo"><img src="https://avatars0.githubusercontent.com/u/9156538?v=4" width="100px;" alt=""/><br /><sub><b>Jason Van Malder</b></sub></a><br /><a href="https://github.com/saadpasta/kelvin-blog-github/commits?author=jvm-odoo" title="Code">💻</a> <a href="#infra-jvm-odoo" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-    <td align="center"><a href="https://github.com/viveksharmaui"><img src="https://avatars1.githubusercontent.com/u/28563357?v=4" width="100px;" alt=""/><br /><sub><b>Slim Coder</b></sub></a><br /><a href="https://github.com/saadpasta/kelvin-blog-github/commits?author=viveksharmaui" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/waleed345"><img src="https://avatars3.githubusercontent.com/u/42063633?v=4" width="100px;" alt=""/><br /><sub><b>waleed345</b></sub></a><br /><a href="https://github.com/saadpasta/kelvin-blog-github/commits?author=waleed345" title="Code">💻</a></td>
-    <td align="center"><a href="https://abhishekashyap.studio/"><img src="https://avatars3.githubusercontent.com/u/29458374?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Kashyap</b></sub></a><br /><a href="https://github.com/saadpasta/kelvin-blog-github/commits?author=abhishekashyap" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/xzebra"><img src="https://avatars1.githubusercontent.com/u/20362769?v=4" width="100px;" alt=""/><br /><sub><b>Zebra</b></sub></a><br /><a href="https://github.com/saadpasta/kelvin-blog-github/commits?author=xzebra" title="Code">💻</a> <a href="#ideas-xzebra" title="Ideas, Planning, & Feedback">🤔</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/jaeyeonling"><img src="https://avatars0.githubusercontent.com/u/40811999?v=4" width="100px;" alt=""/><br /><sub><b>Jaeyeon Kim</b></sub></a><br /><a href="https://github.com/saadpasta/kelvin-blog-github/commits?author=jaeyeonling" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
