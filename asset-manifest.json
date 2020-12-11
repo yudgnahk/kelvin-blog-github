@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/kelvin-blog-github/static/css/main.1520191e.chunk.css",
-    "main.js": "/kelvin-blog-github/static/js/main.c0a58c06.chunk.js",
-    "main.js.map": "/kelvin-blog-github/static/js/main.c0a58c06.chunk.js.map",
+    "main.js": "/kelvin-blog-github/static/js/main.f419af99.chunk.js",
+    "main.js.map": "/kelvin-blog-github/static/js/main.f419af99.chunk.js.map",
     "runtime-main.js": "/kelvin-blog-github/static/js/runtime-main.8b420240.js",
     "runtime-main.js.map": "/kelvin-blog-github/static/js/runtime-main.8b420240.js.map",
-    "static/js/2.08c6bb3d.chunk.js": "/kelvin-blog-github/static/js/2.08c6bb3d.chunk.js",
-    "static/js/2.08c6bb3d.chunk.js.map": "/kelvin-blog-github/static/js/2.08c6bb3d.chunk.js.map",
+    "static/js/2.d1ea3cf6.chunk.js": "/kelvin-blog-github/static/js/2.d1ea3cf6.chunk.js",
+    "static/js/2.d1ea3cf6.chunk.js.map": "/kelvin-blog-github/static/js/2.d1ea3cf6.chunk.js.map",
     "index.html": "/kelvin-blog-github/index.html",
     "static/css/main.1520191e.chunk.css.map": "/kelvin-blog-github/static/css/main.1520191e.chunk.css.map",
-    "static/js/2.08c6bb3d.chunk.js.LICENSE.txt": "/kelvin-blog-github/static/js/2.08c6bb3d.chunk.js.LICENSE.txt"
+    "static/js/2.d1ea3cf6.chunk.js.LICENSE.txt": "/kelvin-blog-github/static/js/2.d1ea3cf6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8b420240.js",
-    "static/js/2.08c6bb3d.chunk.js",
+    "static/js/2.d1ea3cf6.chunk.js",
     "static/css/main.1520191e.chunk.css",
-    "static/js/main.c0a58c06.chunk.js"
+    "static/js/main.f419af99.chunk.js"
   ]
 }
