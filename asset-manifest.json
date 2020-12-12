@@ -5,15 +5,15 @@
     "main.js.map": "/kelvin-blog-github/static/js/main.e45665bb.chunk.js.map",
     "runtime-main.js": "/kelvin-blog-github/static/js/runtime-main.8b420240.js",
     "runtime-main.js.map": "/kelvin-blog-github/static/js/runtime-main.8b420240.js.map",
-    "static/js/2.7edaf6b1.chunk.js": "/kelvin-blog-github/static/js/2.7edaf6b1.chunk.js",
-    "static/js/2.7edaf6b1.chunk.js.map": "/kelvin-blog-github/static/js/2.7edaf6b1.chunk.js.map",
+    "static/js/2.03013b7d.chunk.js": "/kelvin-blog-github/static/js/2.03013b7d.chunk.js",
+    "static/js/2.03013b7d.chunk.js.map": "/kelvin-blog-github/static/js/2.03013b7d.chunk.js.map",
     "index.html": "/kelvin-blog-github/index.html",
     "static/css/main.1520191e.chunk.css.map": "/kelvin-blog-github/static/css/main.1520191e.chunk.css.map",
-    "static/js/2.7edaf6b1.chunk.js.LICENSE.txt": "/kelvin-blog-github/static/js/2.7edaf6b1.chunk.js.LICENSE.txt"
+    "static/js/2.03013b7d.chunk.js.LICENSE.txt": "/kelvin-blog-github/static/js/2.03013b7d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8b420240.js",
-    "static/js/2.7edaf6b1.chunk.js",
+    "static/js/2.03013b7d.chunk.js",
     "static/css/main.1520191e.chunk.css",
     "static/js/main.e45665bb.chunk.js"
   ]
