@@ -19,14 +19,14 @@ a,
 }
 
 h1 {
-  font-family: "Shadows Into Light", serif;
+  font-family: "Dosis", serif;
   font-size: 48px;
   text-align: left;
   margin-bottom: 8px;
 }
 
 h2 {
-  font-family: "Shadows Into Light", sans-serif;
+  font-family: "Dosis", sans-serif;
   font-size: 30px;
   font-weight: 700;
   padding: 0;
@@ -48,7 +48,7 @@ i,
 a,
 li,
 span {
-  font-family: "Quicksand";
+  font-family: "Dosis";
   font-size: 21px;
   letter-spacing: -0.03px;
   line-height: 1.58;
@@ -59,7 +59,7 @@ a {
 }
 
 blockquote {
-  font-family: "Playfair Display", serif;
+  font-family: "Dosis", serif;
   font-size: 25px;
   font-style: italic;
   letter-spacing: -0.36px;
@@ -80,7 +80,7 @@ code {
 
 pre > code {
   background: transparent !important;
-  font-family: "Quicksand";
+  font-family: "Dosis";
   font-size: 18px;
   padding: 0px;
 }
@@ -98,7 +98,7 @@ mark,
 
 .first-letter {
   overflow-wrap: break-word;
-  font-family: "Playfair Display", serif;
+  font-family: "Dosis", serif;
   font-size: 60px;
   line-height: 60px;
   display: block;
@@ -108,7 +108,7 @@ mark,
 }
 
 .subtitle {
-  font-family: "Shadows Into Light", sans-serif;
+  font-family: "Dosis", sans-serif;
   color: rgba(0, 0, 0, 0.54);
   margin: 0 0 24px 0;
 }
