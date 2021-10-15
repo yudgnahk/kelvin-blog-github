@@ -1743,7 +1743,7 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@fortawesome/fontawesome-common-types@^0.2.35", "@fortawesome/fontawesome-common-types@^0.2.36":
+"@fortawesome/fontawesome-common-types@^0.2.36":
   version "0.2.36"
   resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.2.36.tgz#b44e52db3b6b20523e0c57ef8c42d315532cb903"
 
@@ -2194,9 +2194,9 @@
     "@babel/runtime" "^7.12.5"
     "@testing-library/dom" "^8.0.0"
 
-"@testing-library/user-event@^13.2.1":
-  version "13.2.1"
-  resolved "https://registry.yarnpkg.com/@testing-library/user-event/-/user-event-13.2.1.tgz#7a71a39e50b4a733afbe2916fa2b99966e941f98"
+"@testing-library/user-event@^13.4.1":
+  version "13.4.1"
+  resolved "https://registry.yarnpkg.com/@testing-library/user-event/-/user-event-13.4.1.tgz#8d9e73bcc7be09560b4c0ffbb6842ac43bc80ed2"
   dependencies:
     "@babel/runtime" "^7.12.5"
 
